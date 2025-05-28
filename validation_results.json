@@ -1,0 +1,129 @@
+{
+  "template_results": [
+    {
+      "query": "How do I cancel my order?",
+      "response": "Regarding your question about How do I cancel my order?: Thank you for trusting to us for assistance with canceling your purchase with the order number {{Order Number}}. I understand the importance of canceling this purchase for you. To proceed with the cancellation, please follow these steps:\n\n1. Sign in to your {{Online Company Portal Info}} using your credentials.\n2. Navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section of your account.\n3. Look for the purchase associated with the order number {{Order Number}} and click on it to view the details.\n4. Within the purchase details, locate the option labeled '{{Online Order Interaction}}' and click on it.\n5. Follow any additional prompts or steps to confirm the cancellation.\n\nIf you encounter any difficulties or have further questions, please don't hesitate to contact our dedicated support team during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat feature on our {{Website URL}}. We are here to assist you every step of the way. Your satisfaction is our top priority.",
+      "response_time": 0.00012302398681640625
+    },
+    {
+      "query": "Where is my package?",
+      "response": "Regarding your question about Where is my package?: Thank you for contacting! I certainly recognize that you would like to know the current status of purchase number {{Order Number}}. To provide you with accurate information, could you please provide me with some additional details such as your name or email address associated with the purchase? This will help me locate the purchase in our system and provide you with the most up-to-date status. Thank you for your cooperation!",
+      "response_time": 4.649162292480469e-05
+    },
+    {
+      "query": "I want to track my order #12345",
+      "response": "Regarding your question about I want to track my order #12345: We're here for you! I'm aware that you would like to see the estimated time of arrival (ETA) for your purchase with the purchase number {{Order Number}}. To provide you with the most accurate information, could you please confirm the purchase number again? Once I have the correct purchase number, I can assist you in obtaining the ETA for your purchase.",
+      "response_time": 3.0994415283203125e-05
+    },
+    {
+      "query": "Can I change my order after placing it?",
+      "response": "Regarding your question about Can I change my order after placing it?: I'm aware that you're seeking assistance with canceling your purchase with order number {{Order Number}}. I apologize for any inconvenience caused by this situation. Let's work together to resolve it quickly. Here's what you need to do:\n\n1. Sign into Your Account: Log in to your {{Company Account}} using your credentials.\n2. Locate Your Order: Navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section, where you can find a list of your recent purchases.\n3. Find the Specific Purchase: Look for the purchase with the order number {{Order Number}}. Click on it to access the order details.\n4. Initiate Cancellation: Within the order details page, you will see an option labeled '{{Online Order Interaction}}' or a similar expression. Please select this option.\n5. Follow Any Additional Steps: The system might ask you to provide a reason for cancellation or confirm your decision. Please provide the necessary information or follow the prompts accordingly.\n\nIf you encounter any difficulties or have further questions, our dedicated customer support team is available to assist you. You can reach us during our {{Customer Support Hours}} at {{Customer Support Phone Number}} or use the Live Chat feature on our {{Website URL}}. We value your satisfaction and will make every effort to ensure a smooth cancellation process.",
+      "response_time": 3.504753112792969e-05
+    },
+    {
+      "query": "How do I reset my password?",
+      "response": "Answer the following customer support question in a helpful and friendly way: How do I reset my password?",
+      "response_time": 1.2219879627227783
+    },
+    {
+      "query": "I need to update my account information",
+      "response": "Answer the following customer support question in a helpful and friendly way: I need to update my account information",
+      "response_time": 1.2345805168151855
+    },
+    {
+      "query": "How can I delete my account?",
+      "response": "Answer the following customer support question in a helpful and friendly way: How can I delete my account?",
+      "response_time": 1.150170087814331
+    },
+    {
+      "query": "I'm having trouble logging in",
+      "response": "Answer the following customer support question in a helpful and friendly way: I'm having trouble logging in",
+      "response_time": 1.2002580165863037
+    },
+    {
+      "query": "My payment was declined",
+      "response": "Regarding your question about My payment was declined: We appreciate your inquiry and seeking assistance in reporting errors with your online payment. We completely understand the importance of resolving these issues promptly and ensure a seamless payment experience for you. Our dedicated support team is available to guide you through the reporting process and work towards a resolution. To report the errors, please provide us with more details about the specific problems you encountered during the online payment process. This information will greatly assist us in investigating and addressing the root cause of the issues you're facing. We appreciate your cooperation and look forward to resolving the errors swiftly.",
+      "response_time": 0.00022721290588378906
+    },
+    {
+      "query": "What payment methods do you accept?",
+      "response": "Regarding your question about What payment methods do you accept?: I'm sorry to hear that you're experiencing problems with your payment. Rest assured, I'm here to help you resolve this issue. To better understand and assist you, could you please provide more details about the specific problem you're facing? It could be related to a payment error, declined transaction, or any other payment-related issue. By sharing more information, we can work together to find a solution and ensure your payment is processed smoothly. Thank you for bringing this to our attention.",
+      "response_time": 5.0067901611328125e-05
+    },
+    {
+      "query": "I was charged twice for my order",
+      "response": "Regarding your question about I was charged twice for my order: I'm aware that you're seeking assistance with canceling your purchase with order number {{Order Number}}. I apologize for any inconvenience caused by this situation. Let's work together to resolve it quickly. Here's what you need to do:\n\n1. Sign into Your Account: Log in to your {{Company Account}} using your credentials.\n2. Locate Your Order: Navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section, where you can find a list of your recent purchases.\n3. Find the Specific Purchase: Look for the purchase with the order number {{Order Number}}. Click on it to access the order details.\n4. Initiate Cancellation: Within the order details page, you will see an option labeled '{{Online Order Interaction}}' or a similar expression. Please select this option.\n5. Follow Any Additional Steps: The system might ask you to provide a reason for cancellation or confirm your decision. Please provide the necessary information or follow the prompts accordingly.\n\nIf you encounter any difficulties or have further questions, our dedicated customer support team is available to assist you. You can reach us during our {{Customer Support Hours}} at {{Customer Support Phone Number}} or use the Live Chat feature on our {{Website URL}}. We value your satisfaction and will make every effort to ensure a smooth cancellation process.",
+      "response_time": 5.2928924560546875e-05
+    },
+    {
+      "query": "When will I receive my refund?",
+      "response": "Regarding your question about When will I receive my refund?: I'm attuned to the idea that you're unable to make a transfer and are experiencing payment issues. I'm here to assist you in resolving this problem promptly. To better understand the specific payment issue you're facing, could you please provide more details about the error or problem you encountered? By sharing this information, we can work together to find a solution that meets your needs. Thank you for reaching out to us, and we appreciate your patience as we work towards resolving this matter.",
+      "response_time": 3.170967102050781e-05
+    },
+    {
+      "query": "How can I speak to a human agent?",
+      "response": "Regarding your question about How can I speak to a human agent?: I hear you! I'm following you that you would like to speak with our customer service team. I'm here to assist you with that. To connect with our customer service, you can reach them during our {{Customer Support Hours}}. If you have any other questions or concerns, feel free to let me know. How can I assist you further?",
+      "response_time": 3.790855407714844e-05
+    },
+    {
+      "query": "What's your customer service phone number?",
+      "response": "Regarding your question about What's your customer service phone number?: We're listening! I'm keyed into the fact that you would like to check the hours when you can connect with our customer service team. Our dedicated customer service representatives are available to assist you during the following hours: {{Customer Support Hours}}. Whether you prefer to contact us via phone, email, or live chat, our team is here to provide the support you need. Please feel free to reach out with any other questions or concerns you may have. We're always happy to help!",
+      "response_time": 4.673004150390625e-05
+    },
+    {
+      "query": "I need to talk to someone about my order",
+      "response": "Regarding your question about I need to talk to someone about my order: I'm aware that you're seeking assistance with canceling your purchase with order number {{Order Number}}. I apologize for any inconvenience caused by this situation. Let's work together to resolve it quickly. Here's what you need to do:\n\n1. Sign into Your Account: Log in to your {{Company Account}} using your credentials.\n2. Locate Your Order: Navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section, where you can find a list of your recent purchases.\n3. Find the Specific Purchase: Look for the purchase with the order number {{Order Number}}. Click on it to access the order details.\n4. Initiate Cancellation: Within the order details page, you will see an option labeled '{{Online Order Interaction}}' or a similar expression. Please select this option.\n5. Follow Any Additional Steps: The system might ask you to provide a reason for cancellation or confirm your decision. Please provide the necessary information or follow the prompts accordingly.\n\nIf you encounter any difficulties or have further questions, our dedicated customer support team is available to assist you. You can reach us during our {{Customer Support Hours}} at {{Customer Support Phone Number}} or use the Live Chat feature on our {{Website URL}}. We value your satisfaction and will make every effort to ensure a smooth cancellation process.",
+      "response_time": 4.100799560546875e-05
+    },
+    {
+      "query": "I received the wrong item",
+      "response": "Answer the following customer support question in a helpful and friendly way: I received the wrong item",
+      "response_time": 1.0884242057800293
+    },
+    {
+      "query": "The product I received is damaged",
+      "response": "Answer the following customer support question in a helpful and friendly way: The product I received is damaged",
+      "response_time": 1.195570945739746
+    },
+    {
+      "query": "How do I return an item?",
+      "response": "Answer the following customer support question in a helpful and friendly way: How do I return an item?",
+      "response_time": 1.1554691791534424
+    },
+    {
+      "query": "What is your shipping policy?",
+      "response": "Answer the following customer support question in a helpful and friendly way: What is your shipping policy?",
+      "response_time": 1.1898918151855469
+    }
+  ],
+  "model_results": [
+    {
+      "query": "How do I cancel my order?",
+      "response": "Answer the following customer support question in a helpful and friendly way: How do I cancel my order?",
+      "response_time": 1.2284324169158936
+    },
+    {
+      "query": "Where is my package?",
+      "response": "Answer the following customer support question in a helpful and friendly way: Where is my package?",
+      "response_time": 1.0999066829681396
+    },
+    {
+      "query": "I want to track my order #12345",
+      "response": "Answer the following customer support question in a helpful and friendly way: I want to track my order #12345",
+      "response_time": 1.286494255065918
+    },
+    {
+      "query": "Can I change my order after placing it?",
+      "response": "Answer the following customer support question in a helpful and friendly way: Can I change my order after placing it?",
+      "response_time": 1.2854399681091309
+    },
+    {
+      "query": "How do I reset my password?",
+      "response": "Answer the following customer support question in a helpful and friendly way: How do I reset my password?",
+      "response_time": 1.17507004737854
+    }
+  ],
+  "avg_template_time": 0.4966882028077778,
+  "avg_model_time": 1.2150686740875245,
+  "speedup_factor": 2.446340918142897
+}

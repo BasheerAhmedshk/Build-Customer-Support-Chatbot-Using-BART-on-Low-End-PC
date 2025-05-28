@@ -1,0 +1,390 @@
+input_text,target_text,category,intent
+troubles setting up the delivery address,"I've grasped that you're experiencing difficulties in setting up the delivery address. I apologize for any inconvenience this may have caused. Let's work together to resolve this issue. Here's what you can do:
+
+1. Log in to your account on our website.
+2. Navigate to the ""My Account"" or ""Profile"" section.
+3. Look for the ""Shipping Addresses"" or similar option.
+4. If you already have a primary shipping address set up, select the ""Add New Address"" or ""Edit Shipping Addresses"" option.
+5. Fill in the required fields with the details of your delivery address, including the address line, city, state, postal code, and any other necessary information.
+6. Double-check the accuracy of the entered information and save the changes.
+
+If you're unable to find the specific options mentioned or encounter any issues along the way, please reach out to our customer support team, who will be more than happy to assist you. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}.
+
+Rest assured, we are here to help you every step of the way until your delivery address is successfully set up.",SHIPPING,set_up_shipping_address
+where do I see what hours customer assistance available is?,"We're all ears! I'm tuned into the idea that you're looking for information on the operating hours of our customer assistance team. To find the hours when our team is available, you can visit our website and navigate to the ""Contact Us"" or ""Support"" page. There, you will find the specific hours during which you can reach out to our customer assistance team for any queries or concerns. If you need any further assistance or have any other questions, please feel free to let me know.",CONTACT,contact_customer_service
+how could I cancel purchase {{Order Number}}?,"I'm on the same page that you're seeking guidance on canceling your purchase with the order number {{Order Number}}. Rest assured, I'm here to assist you throughout the process. Let's proceed step-by-step:
+
+1. Access Your Account: Start by logging into our {{Online Company Portal Info}} using your credentials.
+2. Visit Order History: Once logged in, navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.
+3. Locate Your Purchase: Look for the purchase associated with the order number {{Order Number}} and click on it.
+4. Initiate Cancellation: You should find an option labeled '{{Online Order Interaction}}' linked to your purchase. Please select it to begin the cancellation process.
+5. Follow Any Additional Steps: Our system might require some additional information or confirmation. Please provide the necessary details as requested.
+
+Should you encounter any difficulties or have further inquiries, don't hesitate to reach out to our dedicated support team. You can contact us during {{Customer Support Hours}} at {{Customer Support Phone Number}} or use the Live Chat feature on our website at {{Website URL}}. We appreciate your trust in our services and are committed to ensuring your satisfaction.",ORDER,cancel_order
+I try to check how soon can I expect my product,"We appreciate your enthusiasm to receive your product and the eagerness to track its estimated arrival. To provide you with the most accurate information, could you please share the {{Order Number}} or {{Tracking Number}} of your purchase? With these details, we'll be able to give you a precise estimate of when you can expect your product. Thank you for your understanding and cooperation in this matter.",DELIVERY,delivery_period
+want hepl regarding my signup,"We appreciate you reaching out to us for help regarding your signup. We understand that encountering issues during the signup process can be frustrating, and we want to ensure that you have a smooth experience. To better assist you, could you please provide more details about the specific problems you are facing? With this information, we will be able to offer you the best possible solution and resolve any issues you are experiencing. Thank you for your patience and cooperation.",ACCOUNT,registration_problems
+help to earn a few of ur article,"That's fantastic! It's wonderful to hear that you're interested in obtaining some of our articles through earning. We have various programs and opportunities available that can help you achieve your goal. To better assist you, could you please provide more details about the specific articles you're interested in and the type of help you're seeking? This will enable me to guide you in the right direction and offer you suitable options to earn the articles you desire.",ORDER,place_order
+assistance seeing ur available payment options,"I'm thrilled to assist you in exploring our available payment options! Your convenience is our priority, and we offer various methods to cater to your needs. Here are some of our accepted payment options:
+
+- **Credit/Debit Card**: You can conveniently use major cards like Visa, Mastercard, and American Express to make secure payments.
+- **PayPal**: A trusted and widely used online payment platform that ensures a seamless checkout process.
+- **Bank Transfer**: You can make direct transfers from your bank account to complete your purchase.
+- **Mobile Wallets**: We also accept popular mobile payment options such as Apple Pay and Google Pay for quick and secure transactions.
+
+These are just a few of the payment options available to you. If you would like more information on any specific method or need assistance with any other queries, feel free to ask. We're here to make your payment experience as smooth and convenient as possible!",PAYMENT,check_payment_methods
+I do not know how to check the delivery methods,"No worries, my friend! You're in the right place to learn everything about our delivery methods. Let me be your guide in this exciting journey:
+
+1. Step 1: Go to our website and log in to your account.
+2. Step 2: Navigate to the ""Shipping"" or ""Delivery"" section.
+3. Step 3: Here you will find all the available delivery methods we offer.
+4. Step 4: Click on each method to learn more about its features, estimated delivery times, and any additional costs.
+5. Step 5: Take your time to compare and select the method that best suits your needs.
+6. Step 6: Once you have made your choice, proceed with the checkout process and complete your purchase.
+
+Should you encounter any difficulties while following these steps or if you have any other questions, please don't hesitate to reach out to our customer support team. We're here to provide you with all the assistance you need. Happy exploring!",DELIVERY,delivery_options
+i dont know how i can cancel purchase {{Order Number}},"I'm clearly cognizant that you're uncertain about how to cancel your purchase with the order number {{Order Number}}. Rest assured, I'm here to assist you every step of the way. To cancel your purchase, please follow these simple instructions:
+
+1. Sign into Your Account: Access our {{Online Company Portal Info}} by logging in using your credentials.
+2. Locate Your Orders: Once logged in, navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.
+3. Identify Your Purchase: Look for the purchase associated with the order number {{Order Number}}. Click on it to proceed.
+4. Initiate the Cancellation: You will find an option called '{{Online Order Interaction}}' linked to your purchase. Please select it.
+5. Confirm and Complete: The system may request additional confirmation or prompt you to provide feedback. Please follow the instructions accordingly.
+
+If you encounter any difficulties or have further questions, our dedicated customer support team is available to assist you. You can reach us during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat feature on our {{Website URL}}. We value your satisfaction and are committed to providing you with excellent service.",ORDER,cancel_order
+I don't know what I need to do to check the early exit fee,"To check the early exit fee for your account, you can log into your online portal or contact our customer service team for assistance. They will provide you with all the necessary information regarding the fees and charges associated with canceling your account before the contract term ends.",CANCEL,check_cancellation_fee
+I want assisance to check when my product is going to arrive,"We understand that you are seeking assistance to track the arrival of your product. To provide you with the most accurate information, could you kindly provide the {{Tracking Number}} or {{Order Number}}? With this information, we will be able to determine the estimated delivery date for your product. We appreciate your cooperation and patience as we work together to resolve your query.",DELIVERY,delivery_period
+I want help to check the early termination fees,"Sure, I can help you with that! To check the early termination fees, you can log in to your online account and navigate to the ""Account Information"" or ""Fees and Charges"" section. There you will find detailed information about the fees associated with terminating your account before the contract period ends. If you have any specific questions or need further clarification, please let me know.",CANCEL,check_cancellation_fee
+i need assistance seeing the cancellaion penalty,For sure! I can assist you in locating the cancellation penalty.,CANCEL,check_cancellation_fee
+i lost the invoices from {{Person Name}} can ufind them for me,"I'm on the same page, your concern about not being able to locate your invoices from {{Salutation}} {{Client Last Name}}. Losing important documents like invoices can be frustrating and stressful. Rest assured, I'm here to assist you in finding the information you need. Can you please provide me with any relevant details such as the date range, type of service, or any other information that can help me locate the invoices for you? Together, we'll work towards finding a solution and ensuring that you have all the necessary documentation.",INVOICE,check_invoice
+i need assistance to change to the pro account,"Absolutely! I'm here to provide you with the guidance you need to smoothly transition to our {{Account Type}} account and enjoy its premium features:
+
+1. Log in: Start by signing in to your account using your credentials.
+2. Account Settings: Once you're logged in, navigate to your account settings or profile settings page.
+3. Upgrade Option: Look for an option that says ""Upgrade"" or ""Switch Account Type"" in the settings menu.
+4. Select {{Account Type}} Account: Choose the ""{{Account Type}} Account"" option from the available choices.
+5. Finalize the Switch: Follow the instructions on the screen to complete the process and upgrade to the {{Account Type}} account.
+
+If you encounter any difficulties or have further questions, please don't hesitate to reach out. Your satisfaction is our top priority, and we're here to assist you every step of the way. Enjoy the enhanced benefits of our {{Account Type}} account!",ACCOUNT,switch_account
+I need help to notify of a trouble with payment,"I appreciate you reaching out to us for assistance with notifying about a trouble you're facing with your payment. Your proactive approach helps us to better understand and address the issue. To ensure an accurate resolution, could you please provide specific details about the trouble you're experiencing? Your input is crucial, and we'll work together to find a solution that meets your needs. Thank you for bringing this to our attention and giving us the opportunity to assist you further.",PAYMENT,payment_issue
+i expect a compensqtion of {{Refund Amount}} dollars,"I understand the significance of the {{Currency Symbol}}{{Refund Amount}} compensation to you. Rest assured, I'm here to help you track the status of your reimbursement. Let's quickly review the details and investigate the current progress. Please bear with me for a moment while I gather the necessary information. Thank you for your patience and cooperation.",REFUND,track_refund
+problem with {{Account Category}} acount deletions,"Thank you for bringing your concern about {{Account Category}} account deletions to our attention. I understand that you're facing an issue, and I'm here to assist you. Could you please provide me with more details about the problem you're experiencing? This will help me to better understand the situation and provide you with an appropriate solution. Your satisfaction is our top priority, and we are committed to resolving any issues you may encounter.",ACCOUNT,delete_account
+is it possible to check the available payment modalities?,"Certainly! I'm delighted to assist you in exploring our available payment methods. Here is a comprehensive list of the modalities we offer:
+
+- **Credit/Debit Card:** We accept various major credit and debit cards, including Visa, Mastercard, and American Express, ensuring convenience and flexibility for our valued customers.
+- **PayPal:** A widely recognized and secure online payment platform that allows you to make hassle-free transactions with ease and peace of mind.
+- **Bank Transfer:** This option enables you to transfer funds directly from your bank account to ours, ensuring a secure and straightforward payment process.
+- **Apple Pay:** For all Apple device users, Apple Pay provides a seamless and streamlined payment experience, making it quick and convenient to complete your purchases.
+- **Google Wallet:** Google Wallet offers a simple and fast way to make payments, making it an ideal choice for customers who prefer using Google services.
+
+Should you require any further information or assistance on any of these payment methods, please do not hesitate to let me know. I'm here to ensure your satisfaction and provide you with a delightful experience throughout your journey with us!",PAYMENT,check_payment_methods
+modify details on gold account,"What an exhilarating journey it is to embark on the task of modifying the details on your esteemed gold account!I'm thrilled to assist you in this endeavor, ensuring that your account information is accurately tailored to reflect your gold membership status and cater to your evolving preferences and requirements. 
+
+To begin the process, could you please specify the particular details you wish to modify? Are you looking to update your personal information, address, payment method, or any other specific aspect of your gold account? Your guidance will allow us to swiftly navigate the path towards ensuring your account is perfectly aligned with your needs.",ACCOUNT,edit_account
+cancel my corporate newsletter subscription,"I hear you loud and clear your request to cancel your corporate newsletter subscription. We value your feedback and respect your decision. To assist you with the cancellation process, could you please provide me with the email address associated with your subscription? This will allow us to locate your account efficiently and ensure a seamless cancellation experience. Rest assured, your privacy and preferences are of the utmost importance to us, and we will promptly process your request. Additionally, I would like to thank you for being a part of our newsletter community and for your continued support. If there's anything else we can assist you with, please don't hesitate to let us know.",SUBSCRIPTION,newsletter_subscription
+how to update my  shipping address?,"To update your shipping address, simply log in to your account and navigate to the ""Account Settings"" section. From there, you should see an option to edit your shipping address. Click on that and you will be able to enter your new address details. Make sure to save your changes before exiting. If you encounter any issues or have any further questions, feel free to reach out to our customer service team for assistance.",SHIPPING,change_shipping_address
+can you help me notify of registration problems?,We're here to assist you with reporting any registration problems you may be facing. Your feedback is crucial in helping us identify and resolve any issues users encounter during the registration process. Please provide us with specific details about the problems you are experiencing so that we can address them promptly and ensure a smoother registration experience for you and other users.,ACCOUNT,registration_problems
+I want assistance to recover the PIN code of my profile,"Indeed! I'm here to lend you the expertise you need to recover the PIN code for your profile.
+
+1. To initiate the PIN code recovery process, please log in to your profile on our platform.
+2. Once logged in, navigate to your account settings or preferences section. It's usually located in the upper right-hand corner of the screen.
+3. Within the account settings, look for the option to manage your PIN code or security settings.
+4. Select the option to recover or reset your PIN code. The exact wording may vary depending on the interface.
+5. Follow the on-screen instructions provided to confirm your identity and reset your PIN code.
+
+If you encounter any challenges or if you have any further questions along the way, please feel free to reach out. We're committed to ensuring a smooth and stress-free PIN code recovery process.",ACCOUNT,recover_password
+I want assistance to speak to an operator,"Glad you contacted us! I'm clearly cognizant that you're looking for assistance to speak to an operator. Our team is here to help and we'll make sure to connect you with a live operator who can address your needs. In the meantime, please bear with us while we make the necessary arrangements. Your satisfaction is important to us, and we appreciate your patience as we work on resolving your concerns.",CONTACT,contact_human_agent
+edit platinum accont,"We're thrilled to assist you with editing the information on your {{Account Category}} account! Your commitment to personalizing your account reflects your dedication to enhancing your experience with us. To ensure the accuracy and security of your account, we kindly request that you avoid sharing any personal identifiers, such as your full account number or password. If you would like to make changes, I recommend securely logging into {{Online Company Portal Info}} or contacting our dedicated customer support team for personalized assistance. What specific details would you like to modify? Remember, we're here to guide you every step of the way.",ACCOUNT,edit_account
+want assistance trying to change the shipping address,"Unquestionably! I'm here to help you with changing your shipping address. Please provide the new address details, and I'll guide you through the process step by step.",SHIPPING,change_shipping_address
+how to request reimbursements of my money,"Certainly, I understand your inquiry about how to request reimbursements for your money. It's important to us that you feel supported throughout this process. To begin, I recommend contacting our customer support team directly. They have the expertise and resources to guide you through the necessary steps and provide the most accurate information. They can be reached during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Remember to gather and provide any relevant documentation, such as purchase receipts or order numbers, to facilitate the reimbursement request. Rest assured, we are committed to resolving your concern and ensuring you receive the necessary assistance.",REFUND,get_refund
+I'm trying to retrieve the pas of my user profile,"Unquestionably! I understand that you're trying to retrieve the password for your user profile. Rest assured, I'm here to assist you every step of the way. Here's what you can do:
+
+1. Visit the login page of our platform.
+2. Look for the ""Forgot Password"" option and click on it.
+3. Enter the email address associated with your user profile when prompted.
+4. You should receive an email with detailed instructions on how to reset your password. Please be sure to check your spam or junk folder if you don't see it in your inbox.
+5. Follow the instructions in the email to set up a new password for your user profile.
+
+If you encounter any difficulties or if you need further assistance, please don't hesitate to reach out. I'm here to ensure a smooth and secure recovery of your password.",ACCOUNT,recover_password
+need help checking how long it takes for the item to arrive,"We understand your eagerness to know the estimated time it will take for your item to arrive. To assist you better, could you please provide us with the {{tracking number}} or {{order number}}? With that information, we can provide you with the most accurate updates regarding your item's delivery. Thank you for your cooperation and patience during this process.",DELIVERY,delivery_period
+check in what situations can I request a reimbursement,"I appreciate your inquiry about the situations where you can request a reimbursement. Understanding when you are eligible for a refund is essential. Here are some common scenarios in which you may be able to request a reimbursement:
+
+1. **Product/Service Defect:** If the product you purchased is defective or the service does not meet the stated specifications, you can generally request a refund.
+
+2. **Late Delivery:** If your order does not arrive within the promised timeframe, you may be eligible for a refund.
+
+3. **Cancellation within Grace Period:** If you change your mind about a purchase and cancel it within the grace period specified in the terms and conditions, a refund should be possible.
+
+4. **Unauthorized Charges:** If you notice any unauthorized charges on your account, please let us know immediately. We will investigate the issue and assist you in obtaining a refund.
+
+5. **Event Cancellation:** If you have purchased tickets for an event that gets canceled and no rescheduled date is provided, you would normally be entitled to a refund.
+
+6. **Duplicate or Overpayment:** If you accidentally make duplicate payments or notice that you have been charged more than once for the same item, we will rectify the situation and process a refund.
+
+It's essential to bear in mind that each vendor or service provider may have specific refund policies and requirements. I recommend reviewing their terms and conditions or reaching out directly to them for more precise information tailored to your situation.
+
+If you have any specific concerns or need assistance with a particular order, please provide me with the relevant details, such as the order number or any other pertinent information. This will enable me to provide you with more accurate guidance. Your satisfaction is our goal, and we are here to support you every step of the way.
+
+Is there anything else I can assist you with today?",REFUND,check_refund_policy
+can I ordrr from {{Delivery City}}?,"Absolutely! I'm excited to let you know that you can place an order from {{Delivery City}} without any hassle. Our delivery services cover a wide range of locations, including {{Delivery City}}. 
+
+When you proceed with your order, simply enter your address details, and our system will automatically recognize {{Delivery City}} as a valid shipping destination. You'll be able to choose from our various delivery options based on your preferences and urgency.
+
+Rest assured that we are committed to ensuring a seamless shopping experience for our customers worldwide, including those in {{Delivery City}}. If you have any specific questions or need further assistance regarding ordering or shipping, please feel free to ask.",DELIVERY,delivery_options
+how do I make a claim against your company?,"I've been informed that you are seeking guidance on how to make a claim against our company. I apologize if you have encountered any issues or dissatisfaction. To initiate a claim, please follow these steps:
+
+1. Identify the specific issue or problem you would like to file a claim for.
+2. Collect all relevant information, such as order numbers, invoices, or any supporting documentation related to your claim.
+3. Contact our customer support team either through our website, phone, or email. They will guide you through the claim process and provide you with the necessary instructions and forms.
+4. Clearly explain the details of your claim, providing as much relevant information as possible to ensure a thorough evaluation.
+5. Our team will carefully review your claim and work towards finding a suitable resolution or compensation.
+6. Throughout the process, feel free to ask any questions or seek updates on the progress of your claim.
+
+We are committed to addressing your concerns promptly and ensuring a fair resolution. We appreciate your patience and cooperation throughout this process.",FEEDBACK,complaint
+do you have an address to send a comment for a producvt?,"I'll take care of it! We value your feedback and want to make it as easy as possible for you to share your thoughts with us. Instead of a physical address, we have a dedicated email where you can send your comments regarding our products. Simply compose an email and send it to [feedback@company.com]. Our team will make sure your comments reach the appropriate department for review and action. We appreciate the time you take to provide your invaluable feedback!",FEEDBACK,review
+wanna submit the new shipping address how do i do it,"I've got that you want to submit a new shipping address and you're unsure of the process. I'm here to guide you through step by step:
+
+1. Begin by logging in to your account.
+2. Navigate to the 'My Account' or 'Profile' section.
+3. Look for the 'Shipping Addresses' or a similar tab.
+4. Within that section, you should see an option to 'Add a New Address' or 'Edit Shipping Addresses'. Select it.
+5. Fill in the required details for your new shipping address, including the street name, city, state, ZIP code, and any other pertinent information.
+6. Double-check the accuracy of the entered information, ensuring that there are no typos or mistakes.
+7. Once you've reviewed the details and verified their correctness, save your changes.
+
+If you encounter any difficulties or if the process varies on your specific platform, please provide additional information about the problem you're facing, and I'll be more than happy to assist you further.",SHIPPING,set_up_shipping_address
+can you help me writing a review for your company?,"Sure! I would be more than happy to assist you in writing a review for our company. Your feedback is incredibly valuable to us, as it helps us understand our strengths and areas for improvement. To get started, could you please share the specific aspects of our company or service that you would like to highlight in your review? This will allow us to focus on the areas that matter most to you. And don't worry, I will guide you through the process and ensure that your review accurately represents your experience. Let's work together to create an impactful review!",FEEDBACK,review
+help me see my bill from {{Person Name}},"I gather that you're seeking assistance in viewing your bill from {{Salutation}} {{Client Last Name}}. I'm here to help you with that! To access your bill, please log in to your account, navigate to the billing section, and look for the invoice related to {{Person Name}}. If you need further guidance or encounter any issues during the process, please don't hesitate to let me know. Together, we'll ensure you have a smooth and satisfying experience.",INVOICE,check_invoice
+i need help to getthe invoices from {{Person Name}},"I'm on your side your need to access the invoices from Ms. {{Client Last Name}}. Give me a moment, and I'll assist you in retrieving those invoices. While I'm working on that, please feel free to let me know if you have any other questions or concerns. Your satisfaction is my top priority.",INVOICE,get_invoice
+help to purcase some of your item,"Thank you for showing interest in purchasing our items! I'm thrilled to be a part of this journey with you. To ensure a seamless and enjoyable shopping experience, please provide me with the details of the item(s) you would like to purchase. Once I have the information, I will guide you through the process and make sure you have all the necessary assistance to complete your purchase successfully. Let's get started!",ORDER,place_order
+I expect an compensation of {{Refund Amount}} dollars,"Your expectations for a compensation of {{Currency Symbol}}{{Refund Amount}} are completely understandable, and I apologize for any inconvenience caused. I would be more than happy to assist you in tracking the status of your compensation. To provide you with the most accurate information, could you please provide me with any relevant details such as a compensation request number or any other information associated with your claim? With this information, I will be able to look into the matter and provide you with an update as soon as possible. Thank you for your cooperation, and rest assured, we are committed to resolving this matter to your satisfaction.",REFUND,track_refund
+ya have an address to submit some feedback abouta product,"I'm happy to help! We greatly value your feedback about our product. To share your thoughts and experiences, you can email us at {{Feedback Email Address}}. We have a dedicated team that carefully reviews each feedback we receive to understand our customers' needs better and continually improve our products. We appreciate your time and look forward to hearing from you soon!",FEEDBACK,review
+there are troubles editing my address,"I apologize for any inconvenience you've experienced while trying to edit your address. Please provide me with the specific details of the issue you are facing, and I'll do my best to assist you in resolving it swiftly.",SHIPPING,change_shipping_address
+need help informing of problems with online payment,"I recognize that you're seeking assistance in reporting problems with your online payment. Thank you for bringing this to our attention. In order to assist you effectively, could you please provide more details about the specific problems you encountered? This will help us thoroughly investigate and resolve the issue for you. We value your feedback and are committed to ensuring a seamless and secure payment experience.",PAYMENT,payment_issue
+"I lost the PIN of my profile, I want help restoring it","I'm sorry to hear that you've lost the PIN to your profile. Rest assured, I'm here to assist you in restoring it and gaining access to your account again.
+
+To restore your profile PIN, please follow these steps:
+
+1. Visit the profile login page on our platform.
+2. Look for the ""Forgot PIN"" option or a similar alternative.
+3. Click on it and provide the required information, such as your email address or username associated with your profile.
+4. You should receive an email or a notification with instructions on how to reset your PIN.
+5. Follow the guidelines provided in the email or notification carefully to create a new PIN for your profile.
+
+If you encounter any difficulties during this process or if you need any further assistance, please don't hesitate to reach out. We are committed to helping you regain access to your account.",ACCOUNT,recover_password
+how can i remove several items from purchaswe {{Order Number}},"Thank you for contacting us regarding the removal of several items from purchase number {{Order Number}}. We understand that you need assistance with this matter and we are here to help. To remove items from your purchase, you can follow these steps: 
+1. Log in to your account on our website or app.
+2. Go to your order history or purchase details page.
+3. Look for the specific purchase with the number {{Order Number}}.
+4. Within the purchase details, you should see a section or option to manage or edit your items.
+5. Select the items you wish to remove and follow the prompts to complete the removal process.
+If you encounter any difficulties or have any questions along the way, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We're here to ensure your satisfaction and make this process as smooth as possible.",ORDER,change_order
+removing {{Account Category}} acconut,"Thank you for contacting us regarding the removal of your {{Account Category}} account. I understand that you would like assistance with canceling your account, and I'm here to help. To proceed with the removal process, please provide me with some additional information, such as your account username or email address, so that I can locate your account and guide you through the necessary steps. Your satisfaction is our top priority, and we will ensure that your account removal is handled smoothly and efficiently.",ACCOUNT,delete_account
+I want assistance to solve a problem with payments,"I'm really sorry to hear that you're experiencing difficulties with your payments. Rest assured, I'm here to assist you in resolving this issue. To get started, please provide me with more details about the problem you're facing with your payments. The more information you can provide, the better equipped I'll be to help you find a solution. Thank you for reaching out to us, and I'll do my best to ensure that we resolve this problem promptly and efficiently.",PAYMENT,payment_issue
+I do not know what to do to retrieve thepassword of my user,"Happy to hear from you! I truly understand that you are unsure about the steps to retrieve the password for your user. Let me guide you through the process:
+
+1. To retrieve your password, start by visiting our platform's ""{{Login Page URL}}"".
+2. Look for the option labeled ""{{Forgot Password}}"" and click on it.
+3. You will then be prompted to provide the email associated with your user profile. Please enter the correct email address to proceed.
+4. After entering your email, our system will send you an email with detailed instructions on how to reset your password. Please make sure to check your inbox, as well as your spam or junk folders.
+5. Follow the instructions in the email to set up a new password for your user profile.
+
+If you encounter any difficulties during this process or if you have any further questions, please don't hesitate to reach out. We are here to provide you with the necessary assistance and support.",ACCOUNT,recover_password
+can you help me seeing the ETA of the order {{Order Number}}?,"I'm happy to help! I'm here to assist you in finding the estimated time of arrival (ETA) for your order with the order number {{Order Number}}. To provide you with the most accurate information, could you please provide me with a few more details, such as your name or email address associated with the order? This will help me locate the order and provide you with the ETA promptly. Thank you for your cooperation!",ORDER,track_order
+help correcting the address,"Certainly! If you need assistance correcting your shipping address, you can reach out to our customer support team. They will be able to guide you through the process and ensure that your address is updated accurately. Please provide them with the necessary details and they will gladly help you with any address corrections you may need.",SHIPPING,change_shipping_address
+information about the deletion of a {{Account Type}} account,"Thank you for your inquiry regarding the deletion of a {{Account Type}} account. We understand that you may have decided to discontinue using our services and we're here to assist you with the account deletion process. To proceed, please follow these steps:
+1. Log in to your account on our website or mobile app.
+2. Navigate to the account settings or profile section.
+3. Look for the option to delete or deactivate your account.
+4. Follow the on-screen instructions to complete the deletion process.
+If you encounter any issues or have further questions, please don't hesitate to reach out to our customer support team for personalized assistance. We value your privacy and aim to provide a seamless experience throughout this process.",ACCOUNT,delete_account
+want assistance to buy some of ur artikcle,"Thank you for your interest in purchasing some of our articles! I'm here to provide you with the guidance and assistance you need to make a smooth and successful purchase. To get started, could you please provide me with more details about the specific articles you are interested in? This will help me better understand your needs and provide you with tailored recommendations and support.",ORDER,place_order
+"I need to order several articles, can you help me?","Thank you for reaching out! I'm thrilled to assist you in placing an order for multiple articles. Our goal is to make the process smooth, convenient, and enjoyable for you. To begin, could you please provide me with the specific details of the articles you wish to purchase? This will enable me to guide you through each step of the ordering process, ensuring that you have a seamless experience from start to finish.",ORDER,place_order
+I have to submit damn feedback,Of course! I'm here to assist you in submitting your feedback. We greatly appreciate your thoughts and opinions on our services. Please provide me with more details about your experience or the specific feedback you'd like to share. Your feedback is highly valued and will help us improve our services for future customers. How can I assist you further in submitting your feedback?,FEEDBACK,review
+help me to give a quick look at my invoice from {{Person Name}},"I'm following your need for a quick overview of your invoice from {{Salutation}} {{Client Last Name}}. Let me guide you through the process step by step. To start, could you please provide me with the invoice number or any other details that could help me locate the invoice more efficiently? With this information, I'll be able to assist you in retrieving the necessary information and addressing your concerns promptly.",INVOICE,check_invoice
+rebate {{Refund Amount}} dollarx,"I've taken note that you are requesting a rebate of ${{Refund Amount}}. To process your request, I will need some additional information. Could you please provide details about the purchase or transaction that qualifies for the rebate? Additionally, it would be helpful if you could provide any relevant documentation, such as receipts or order numbers. With this information, I can assist you in the proper procedure to apply for the rebate and ensure a smooth resolution. Thank you for your cooperation.",REFUND,get_refund
+I do not know what I need to do to get the invoice #85632,"I understand your confusion about how to access the invoice with the number #{{Invoice Number}}. To obtain your invoice, you can follow these steps: First, log in to your account on our website. Once logged in, navigate to the ""Billing"" or ""Invoices"" section. There, you should be able to view and download your invoice with the number #{{Invoice Number}}. If you encounter any difficulties or have further questions, please don't hesitate to reach out to our customer support team. They will be happy to assist you in accessing your invoice and addressing any concerns you may have.",INVOICE,get_invoice
+can you help me submit feedback for a service?,I'll take care of it! We greatly appreciate your desire to provide feedback about our service. Your opinion is valuable to us as it helps us understand your experience and make improvements to better meet your needs. I'm here to assist you in submitting your feedback. Please let me know any specific details or concerns you would like to address so that I can help you effectively.,FEEDBACK,review
+i dont want order {{Order Number}},"I'm not mistaken that you don't want to proceed with your order with the order number {{Order Number}}. Our team is here to assist you with canceling it. To cancel your order, please follow these steps:
+
+1. Log into your {{Online Company Portal Info}} using your credentials.
+2. Go to your '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.
+3. Locate the purchase with the order number {{Order Number}} and click on it.
+4. Look for the option labeled '{{Online Order Interaction}}' and select it.
+5. Follow any additional instructions or questions that may appear to confirm the cancellation.
+
+If you encounter any difficulties during the cancellation process or have any other questions, please don't hesitate to reach out to our dedicated support team. You can contact us during {{Customer Support Hours}} at {{Customer Support Phone Number}} or use the Live Chat feature on our website at {{Website URL}}. We're here and ready to assist you in any way we can. Your satisfaction is important to us, and we appreciate your patience and understanding as we handle your cancellation request.",ORDER,cancel_order
+changing info on {{Account Type}} account,"How exciting it is to witness your desire to modify the information on your {{Account Type}} account!I'm here to assist you throughout this process, ensuring a seamless and delightful experience. Before we proceed, let me assure you that your account details are safe and secure with us. To facilitate the necessary changes, I kindly request you to log into your {{Account Type}} account on our {{Online Company Portal Info}}. Once you're logged in, you'll find a dedicated section where you can update your account information, including your personal details, contact information, and preferences. If you encounter any difficulties or have any questions along the way, please don't hesitate to reach out. We're here 24/7 to provide you with the guidance you need. Let's embark on this journey together and make your {{Account Type}} account truly reflect your preferences and needs.",ACCOUNT,edit_account
+consumer reclamation against your organization,"I deeply apologize if you have a complaint against our organization. Your feedback is essential to us, as it helps us identify areas of improvement and rectify any shortcomings. To address your consumer reclamation, I kindly request you to provide me with the specific details of your concern. Our team will thoroughly review your complaint and take appropriate actions to ensure a satisfactory resolution. Thank you for bringing this to our attention, and I assure you that we take it seriously.",FEEDBACK,complaint
+assistance to see what shipping options uoffer,"Definitely! I'm here to assist you in exploring the various shipping options we offer. Let's dive into the world of shipping possibilities:
+
+1. Standard Shipping: This is our most economical option, typically arriving within {{Date Range}} business days, ideal for non-urgent items.
+
+2. Expedited Shipping: If you're looking for a slightly faster delivery, our expedited shipping option ensures your items will arrive within {{Date Range}} business days.
+
+3. Overnight Shipping: Need your items urgently? Our overnight shipping guarantees delivery by the next business day.
+
+4. In-Store Pickup: If you prefer a more hands-on approach, you can choose our in-store pickup option. Simply select this option during checkout and collect your items at your nearest store location.
+
+We want to ensure your satisfaction, so please feel free to ask any questions or let me know if there's anything specific you have in mind. I'm here to help you make the best choice for your shipping needs!",DELIVERY,delivery_options
+rebating {{Refund Amount}} dollars,"I've been informed that you are looking to rebate ${{Refund Amount}}, and I'm here to assist you with that. To ensure a smooth refund process, could you please provide me with some additional details? Specifically, I would need the details of your purchase, such as the order number, date of purchase, and any relevant information related to the transaction. With this information, I'll be able to initiate the refund process and guide you through the necessary steps to get your money back. Rest assured, I'm committed to resolving this issue and ensuring your satisfaction.",REFUND,get_refund
+i have to check in what cases can i request a reimbursement,"Unquestionably! I completely understand your need to check the situations in which you can request a reimbursement. Let me provide you with a clear breakdown of the most common scenarios:
+
+1. **Product Defect:** If the product you purchased is defective or doesn't meet your expectations, you may be eligible for a reimbursement.
+2. **Incorrect or Incomplete Order:** If you receive an incorrect or incomplete order, rest assured you can request a reimbursement for the items that are missing or incorrect.
+3. **Cancellation within Grace Period:** If you change your mind about your purchase within the grace period specified in the terms and conditions, you should be able to request a reimbursement.
+4. **Unauthorized Charges:** If you notice any unauthorized charges on your account, please contact our customer support immediately. We will investigate the charges and assist you in resolving the issue, including the possibility of a reimbursement.
+5. **Late Delivery or Non-Delivery:** If your order doesn't arrive within the estimated delivery timeframe or is not delivered at all, you may be entitled to a reimbursement.
+6. **Dissatisfaction with Service:** If you are dissatisfied with the service provided, please let us know. Depending on the circumstances, we may offer a reimbursement as a gesture of goodwill.
+
+Remember that specific refund policies may vary depending on the vendor or service provider, so it's always a good idea to review the terms and conditions or contact the vendor directly for more information. If you have any specific questions or concerns about a recent purchase, please provide me with the necessary details, such as the order number, and I'll be more than happy to assist you further.
+
+Is there anything else I can help you with?",REFUND,check_refund_policy
+I need help seeing the ETA of the purchase {{Order Number}},"Thank you for reaching out! I'm here to assist you in finding the estimated time of arrival (ETA) for your purchase with the purchase number {{Order Number}}. To check the ETA, you can visit the '{{Order Number}}' section on our website or contact our customer support team through {{Customer Support Phone Number}} or Live Chat on our website at {{Website URL}}. They will be happy to provide you with the updated ETA and any other assistance you may need. Feel free to let me know if there's anything else I can help you with!",ORDER,track_order
+help checking the eta of order {{Order Number}},"Thank you for reaching out! I'm here to assist you in checking the estimated time of arrival (ETA) for your order with the order number {{Order Number}}. To provide you with accurate information, could you please confirm the platform or website you used to place this order? This will help me guide you to the right section where you can find the ETA.",ORDER,track_order
+assistance to inform of an error with a registration,"We appreciate your initiative in seeking assistance to inform us about an error with your registration. Your active involvement in resolving this issue showcases your determination and commitment. To report the error, I recommend reaching out to our customer support team through our dedicated helpline or live chat on our website. Our support team is well-equipped to handle registration problems and will provide you with the necessary guidance and support to resolve the issue. Remember, your feedback is valuable to us and helps us improve our services for you and other users.",ACCOUNT,registration_problems
+help me requesting a bloody compensation,"I understand the urgency and frustration you must be feeling, and I apologize for any inconvenience caused. I'm here to assist you in requesting compensation. To ensure we can provide you with the support you need, could you please provide me with some more details about the situation that led to this request? It's important for us to have a clear understanding so that we can guide you through the appropriate steps to request compensation in the most effective way possible. Together, we can work towards a resolution that addresses your concerns and ensures you are fairly compensated.",REFUND,get_refund
+I need assistance to set the delivery address up,"Definitely! I'm here to guide you through the process of setting up your delivery address. Here are the steps to follow:
+
+1. Log in to your account on our website or app.
+2. Navigate to your account settings or profile section.
+3. Look for the ""Shipping Addresses"" or similar option.
+4. Click on it to add a new address or edit existing addresses.
+5. Fill in the required fields with the details of your delivery address, including the street name, city, state, and postal code.
+6. Double-check the information to ensure accuracy.
+7. Save the changes.
+
+If you encounter any issues or have questions along the way, don't hesitate to reach out for further assistance. Your satisfaction is our top priority, and we're here to help you every step of the way!",SHIPPING,set_up_shipping_address
+help seeing in what cases can i request to be reimbursed,"I comprehend your desire to gain clarity on the cases in which you can request a reimbursement. Allow me to provide you with a comprehensive breakdown of the situations:
+
+1. **Product/Service Defect:** If the product or service you have purchased arrives in a defective condition or does not meet the described standards, you are usually eligible for a reimbursement.
+
+2. **Cancellation within Grace Period:** Should you change your mind about your purchase within the grace period provided, you can typically request a reimbursement.
+
+3. **Unauthorized Charges:** If you notice any unfamiliar or unauthorized charges on your account, we are here to investigate and assist you in the reimbursement process.
+
+4. **Event Cancellation:** If an event you have purchased tickets for is canceled and not rescheduled, you would usually be eligible for a reimbursement.
+
+5. **Duplicate Charges:** If you are mistakenly charged multiple times for the same item, please inform us, and we will promptly rectify the situation by initiating a reimbursement.
+
+6. **Non-receipt of Goods:** In the event that your purchased product does not arrive within the expected timeframe, you may qualify for a reimbursement.
+
+However, it's important to note that refund policies can vary depending on the vendor or service provider. To gain a comprehensive understanding of our specific refund policies, I recommend reviewing our terms and conditions or reaching out directly to our customer support team at {{Customer Support Phone Number}}. They are available {{Customer Support Hours}} to provide you with accurate and up-to-date information.
+
+If you have any specific concerns or require assistance with a particular order, please provide us with the necessary details, such as the order number or any relevant information. Your satisfaction is our top priority, and we are here to guide you every step of the way.
+
+Is there anything else I can help you with today?",REFUND,check_refund_policy
+what do i need to do to get in touch with customer support,"Thanks for getting in touch! I grasp that you're looking to get in touch with our customer support team. To connect with them, you can visit our website at {{Website URL}} and click on the ""Contact Us"" page to find various options such as phone, email, or live chat. Alternatively, you can reach out to our customer support by dialing {{Customer Support Phone Number}}. They are available during {{Customer Support Hours}}. Don't hesitate to let me know if there's anything else I can assist you with!",CONTACT,contact_customer_service
+help to check in which cases can I ask for reimbursements,"I'll do my best! I completely understand your need to understand the situations in which you can request reimbursements. Here are some common cases where you may be eligible for a refund:
+
+1. **Product/Service Defect:** If you receive a defective product or a service that doesn't meet your expectations, you can generally request a refund.
+
+2. **Cancellation within Grace Period:** Many companies offer a grace period during which you can cancel your purchase and receive a refund.
+
+3. **Delivery Issues:** If your order doesn't arrive within the expected time frame or gets lost in transit, you may be entitled to a refund.
+
+4. **Unauthorized Charges:** If you notice any unauthorized transactions on your account related to your purchase, contact customer support immediately to resolve the issue and request a refund.
+
+5. **Event Cancellation:** If you purchased tickets for an event that gets canceled or rescheduled, you often have the option to request a refund.
+
+6. **Duplicate Charges:** If you have been charged multiple times for the same item or service, reach out to customer support to have the duplicate charges refunded.
+
+7. **Non-Satisfaction Guarantee:** Some companies offer a satisfaction guarantee, which allows you to request a refund within a specific time frame if you are not satisfied with the product or service.
+
+Please note that these are general scenarios, and refund policies can vary between companies. It's always a good idea to review the specific refund policy of the company you made the purchase from for detailed information. If you have a specific order in question, kindly provide me with the necessary details, such as the order number, and I'll be glad to assist you further.
+
+Is there anything else I can help you with?""",REFUND,check_refund_policy
+can you showme the accepted payment modalities?,"We're here to help! I take note that you would like to see the accepted payment methods. We offer a variety of payment options to cater to our customers' needs. Here is a list of our accepted payment modalities:
+
+- Credit/Debit Card: We accept all major credit and debit cards, including Visa, Mastercard, and American Express.
+- PayPal: Our platform integrates seamlessly with PayPal, a trusted and secure online payment service.
+- Bank Transfer: You can make payments directly from your bank account through a secure bank transfer.
+- Mobile Wallets: We support popular mobile wallet applications like Apple Pay and Google Pay.
+- Cryptocurrency: As a forward-thinking company, we also accept selected cryptocurrencies for payment.
+
+If you have any specific questions or need assistance with any of these payment methods, feel free to let me know. We are here to help you every step of the way.",PAYMENT,check_payment_methods
+where can I request refunds of my money?,"I've picked up that you are seeking information on where to request refunds for your money. Our company has a dedicated refunds department that handles such requests. To initiate the refund process, you can reach out to our customer support team through various channels such as phone, email, or live chat. They will guide you through the necessary steps and provide you with the specific details required to submit your refund request. Rest assured, our team is committed to assisting you in obtaining the refund you are entitled to.",REFUND,get_refund
+is it possible to remove a standard account,"Thank you for reaching out about removing your standard account. I understand that you may have certain reasons for wanting to terminate your account, and I'm here to assist you with that process. Yes, it is possible to remove a standard account. To get started, could you please provide me with some specific details about your account, such as your account username or any other information that can help us locate and process your request accurately? Rest assured, we will ensure that the account removal process is carried out smoothly and according to the necessary procedures.",ACCOUNT,delete_account
+i aint registered yet could i create a bloody gold acocunt,"Thank you for reaching out! I'm thrilled to assist you in creating a {{Account Type}} account. To get started, please provide me with your full name, email address, and a preferred username. Once I have these details, I'll guide you through the process step-by-step, ensuring that you have a seamless experience. Rest assured that your security and privacy are of utmost importance to us. Your information will be handled with the highest level of care. Let's begin this exciting journey together!",ACCOUNT,create_account
+i try to purchase some of ur product,"Thank you for expressing your interest in purchasing our products! I'm here to guide you through the process and make it as seamless as possible. To assist you better, could you please provide me with more details about the specific products you would like to purchase? This will enable me to provide you with accurate information and personalized recommendations. Let's make sure you have a smooth and satisfying shopping experience!",ORDER,place_order
+I want assistance getting the bill from {{Person Name}},Unquestionably! I completely understand your need for assistance in getting the bill from {{Salutation}} {{Client Last Name}}. Let me help you with that. Can you please provide me with the invoice number or any other relevant information? This will help me locate the bill accurately and provide you with the necessary assistance.,INVOICE,get_invoice
+wanna check under which circumstances can i ask for a refund,"For sure! I completely understand your desire to know the circumstances under which you can request a refund. Here are some common scenarios:
+
+1. **Product/Service Defect:** If the product or service you received has a defect or does not meet the description, you may be eligible for a refund.
+2. **Cancellation within Grace Period:** If you decide to cancel your purchase within the specified grace period, you can typically request a refund.
+3. **Unauthorized Charges:** If you notice any unauthorized charges on your account or credit card statement, it's important to reach out to us for investigation and assistance.
+4. **Event Cancellation:** If you purchased tickets for an event that gets canceled and is not rescheduled, you may be eligible for a refund.
+5. **Duplicate Charges:** If you have been charged multiple times for the same item or service, please notify us so that we can resolve the issue and provide a refund.
+6. **Non-receipt of Goods:** If you have not received the product within the expected delivery time frame, it's important to contact us as you may qualify for a refund.
+
+Keep in mind that refund policies can vary depending on the vendor or service provider. It's always a good idea to review the terms and conditions or directly communicate with the provider for a comprehensive understanding of their specific refund policy.
+
+If you have any specific concerns or need assistance with a particular order, please provide me with the necessary details, such as the order number, and I will be more than happy to assist you further. Your satisfaction is our top priority!
+
+Is there anything else I can help you with?",REFUND,check_refund_policy
+get ibll #00108,"I grasp your need to access the bill with the number #{{Invoice Number}}. Give me just a moment while I retrieve that information for you. In the meantime, if you have any other questions or concerns, please feel free to let me know. I'm here to assist you.",INVOICE,get_invoice
+I need assistance to see your refund policy,"Absolutely! I completely understand your need to access our refund policy. It's crucial to have all the necessary information to make informed decisions. Let me guide you through the steps to view our refund policy:
+
+1. **Visit Our Website:** Start by going to our official website. You can find the URL in our communication or by doing a quick search online.
+
+2. **Navigate to the Help Center:** Look for the ""Help"" or ""Support"" tab on the website. It's usually located at the top or bottom of the page.
+
+3. **Find the Refund Policy Section:** Once you're on the Help page, search for the ""Refund Policy"" section. It might be organized by topics or categories, so take a moment to browse the different sections if needed.
+
+4. **Review the Details:** Click on the ""Refund Policy"" section to open it. Here, you'll find a comprehensive explanation of our policy, including the eligibility criteria, refund process, and any limitations or exceptions.
+
+5. **Further Questions and Clarifications:** If you come across any specific questions or need further clarification, our customer support team is available to assist you. You can reach them directly through the contact information provided on the website or by using our Live Chat feature.
+
+Remember, our refund policy is designed to ensure fairness for all our valued customers. It's essential to familiarize yourself with the details to make the most informed choices. I hope this guidance helps you locate and understand our refund policy easily.
+
+Is there anything else I can assist you with?",REFUND,check_refund_policy
+editing information on {{Account Type}} account,"How captivating it is to witness your commitment to editing the information on your {{Account Type}} account!I'm here to provide you with the necessary guidance and support to assist you throughout this process. To edit the information on your {{Account Type}} account, you can log in to the {{Online Company Portal Info}} and navigate to the account settings or profile section. There, you should find options to modify the desired information such as your name, contact details, or any other relevant details. If you encounter any difficulties or have specific questions along the way, please feel free to ask. We're here to ensure a seamless and satisfactory experience. Together, let's make the necessary changes, leaving you with an updated and accurate profile on your {{Account Type}} account.",ACCOUNT,edit_account
+"I do not have a {{Account Type}} account, how do I register?","That's great to hear that you're interested in registering for a {{Account Type}} account with us! I'd be more than happy to assist you with the registration process. To start, please visit our website and look for the ""Sign Up"" or ""Register"" button. Click on that button, and you will be directed to a registration form. Fill in all the required information, such as your name, email address, and preferred username, and create a strong password for your account. Once you've entered all the necessary details, click on the ""Submit"" button to complete the registration process. If you encounter any issues or have any questions along the way, don't hesitate to reach out to our customer support team. We're here to help you every step of the way. Welcome aboard!",ACCOUNT,create_account
+editing freemium account,"How extraordinary it is to see your determination in editing your freemium account!I'm here to guide you through this process and provide you with the necessary support. Your satisfaction and success are my top priorities. With that in mind, could you please let me know which specific details you would like to modify? Together, we will make the necessary changes and ensure that your account reflects your preferences accurately.",ACCOUNT,edit_account
+I am trying to see in which cases can I ask for refunds,"I'll get right on it! I completely understand your desire to have a clear understanding of the cases in which you can request a refund. Here are some common scenarios:
+
+1. **Product/Service Defect:** If the product or service you purchased does not meet your expectations or has a defect, you may be eligible for a refund.
+2. **Cancellation within Grace Period:** If you change your mind about a purchase and cancel it within the specified grace period, you can typically request a refund.
+3. **Unauthorized Charges:** If you notice any charges on your account that you did not authorize or recognize, it's important to reach out to us so we can investigate and assist you.
+4. **Event Cancellation:** If you have purchased tickets for an event that gets canceled and there is no rescheduled date, you may be entitled to a refund.
+5. **Duplicate Charges:** If you have been charged multiple times for the same item, please let us know, and we will promptly rectify the situation.
+6. **Non-receipt of Goods:** If you have not received the goods you ordered within the expected timeframe, please notify us as this may qualify you for a refund.
+
+Please note that these are general guidelines, and specific refund policies may vary depending on the vendor or service provider. It's always advisable to review the terms and conditions or contact the vendor directly for a comprehensive understanding of their refund policy. If you have any specific queries or concerns, please provide additional details, such as the order number, and I'll be happy to assist you further.
+
+Is there anything else I can help you with?",REFUND,check_refund_policy
+where do I check when my package is going to arrive?,"We understand your need for information on tracking your package and learning about its estimated arrival time. To check the status of your package and find out when it will arrive, you can visit our website and go to the ""Order Tracking"" or ""Track my Package"" section. There, you will be prompted to enter your {{Tracking Number}} or {{Order Number}} for detailed updates. If you're having trouble finding the tracking information, please feel free to reach out to our customer support team, available {{Customer Support Hours}}, at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to assist you in tracking your package and provide you with the most up-to-date information regarding its expected arrival. We appreciate your patience and understanding throughout this process.",DELIVERY,delivery_period
+check purchase {{Order Number}} status,"Thank you for getting in touch! I'm here to assist you with checking the status of purchase {{Order Number}}. To provide you with accurate information, could you please provide me with your name associated with the purchase? I'll be able to assist you more effectively once I have that information.",ORDER,track_order
+I am trying to make a customer complaint,"I deeply regret that you had an experience that led you to want to make a customer complaint. Your feedback is truly valuable to us as it helps us identify areas for improvement and provide a better service in the future. To ensure that your complaint is properly addressed, could you please provide me with the specific details of your situation and any supporting documentation or evidence? This will assist us in thoroughly investigating your complaint and taking appropriate actions.",FEEDBACK,complaint
+how long till i get my damn reimbursement,"I'm fully aware of your frustration and impatience regarding the reimbursement process. I apologize for any inconvenience caused, and I'm here to provide you with the information you need. The duration for reimbursement can vary depending on several factors, such as the payment method, the processing time of financial institutions, and the specific policies of the company. To ensure you have the most accurate information, I kindly request you to provide me with your purchase details or any other relevant information, so I can check the status of your reimbursement and provide you with an estimated timeframe. Rest assured, I am committed to resolving this matter as quickly as possible, and I appreciate your patience and understanding in the meantime.",REFUND,get_refund
+how to leave my feedback for a product,"Thank you so much for taking the time to provide feedback on our product! Your insights and opinions are essential to help us improve and create a better experience for our customers. To leave your feedback for a product, you can visit our website and navigate to the product page. There, you'll find an option to leave a review or provide feedback. Alternatively, you can reach out to our customer support team, and they will be more than happy to assist you in submitting your feedback. We truly appreciate your valuable input, and we look forward to hearing from you!",FEEDBACK,review
+I am trying to see the early exit fees,"Assuredly! I can help you with that. To check the early exit fees for your account, please visit our website and navigate to the ""Account Details"" section. There, you will find all the information regarding any potential fees or penalties for cancelling your account early. If you have any further questions or need assistance, feel free to let me know!",CANCEL,check_cancellation_fee
+wanna oldge a claim against ur company will uhelp me,"I'm deeply sorry to hear that you want to lodge a claim against our company. Please know that we take your concerns seriously and are committed to resolving the issue to your satisfaction. To help you with the process, I kindly request you to provide some more details about your claim. This will enable me to understand the situation better and guide you towards the appropriate channel for lodging your claim. Your feedback is important to us, and we appreciate the opportunity to address any concerns you may have. How can I assist you further with lodging your claim?",FEEDBACK,complaint
+give me information about the shipping methods,"Oh, the wonders of shipping methods! Prepare yourself for a voyage through our extraordinary range of shipping options:
+
+1. Standard Shipping: A trusted choice that usually takes {{Date Range}} business days to arrive at your doorstep. It's perfect for non-urgent items.
+2. Expedited Shipping: Need your items sooner? Opt for expedited shipping, which delivers within {{Date Range}} business days.
+3. Overnight Shipping: For your most urgent needs, we provide overnight shipping, ensuring next business day delivery.
+4. In-Store Pickup: If convenience and speed are your priority, select in-store pickup at one of our {{Store Location}}.
+
+These options are tailored to cater to your diverse needs. Remember, some factors may affect the exact delivery time. If you have any specific concerns or require further assistance, feel free to ask. Together, let's make your shipping experience exceptional!",DELIVERY,delivery_options
+I want assistance to change to the {{Account Type}} account,"Sure thing! I'm here to provide you with the necessary guidance to switch to the {{Account Type}} account and take advantage of its benefits:
+
+1. Access Your Account: Start by logging into our platform.
+2. Profile Management: Once you're logged in, navigate to your '{{Settings}}' or '{{Profile}}' section.
+3. Account Type Selection: Look for an option labeled '{{Account Change}}' or '{{Account Change}}'.
+4. Choose the Free Account: Select the '{Free Account}' from the available options.
+5. Confirm the Switch: Follow the on-screen prompts to complete the switch to the {{Account Type}} account.
+
+If you come across any challenges during this process or have additional questions, please don't hesitate to reach out. I'm here to ensure a smooth transition for you. Enjoy the benefits of our {{Account Type}} account!""",ACCOUNT,switch_account
+i expect a restitution of {{Refund Amount}} dollafs,"Firstly, I truly understand how pivotal the ${{Refund Amount}} restitution is for you. Every dollar counts, and we’re in this together. We acknowledge the importance of swift resolutions to your queries. Let me swiftly dive into the current status of your refund. As you patiently await, might I ask if you’ve ever had to follow up on a restitution before? We value your insights and your patience alike. Rest assured, we're doing everything we can to ensure your satisfaction and trust.",REFUND,track_refund
+I'm trying to rset the pwd of my user profile,"Sure thing! I understand that you're currently attempting to reset the password of your user profile. It can be frustrating to encounter difficulties during this process, but worry not, I'm here to lend a helping hand. 
+
+To get started, please visit the ""{{Password Reset Page}}"" on our platform. Once you're there, you'll find a step-by-step guide that will walk you through the entire password reset procedure. Simply follow the instructions, and before you know it, you'll have a brand new password for your user profile.
+
+In case you face any issues or have questions along the way, feel free to reach out to our customer support team via the {{Support Channel}}. They're dedicated to providing you with the assistance you need and ensuring your password reset process goes smoothly.
+
+Remember, you're not alone in this journey, and we're committed to helping you regain access to your user profile as quickly and effortlessly as possible.",ACCOUNT,recover_password
+how can I check how soon can I expect my item?,"We understand your eagerness to know when you can expect your item to arrive. To provide you with the most accurate information, could you please provide us with the {{Order Number}} or {{Tracking Number}}? With that information, we will be able to track your package and provide you with an estimated delivery date. Thank you for your cooperation in this matter.",DELIVERY,delivery_period
+transfering to person,"Honored to assist! I'm clued in that you would like to be transferred to a person to address your needs. Rest assured, I'm here to assist you in connecting with the right person who can provide further assistance. Please bear with me for a moment while I arrange the transfer. Your satisfaction is our top priority, and we appreciate your patience.",CONTACT,contact_human_agent
+is it possible to place an order from {{Delivery City}},"I'll get right on it! You can definitely place an order from {{Delivery City}}. We offer nationwide shipping, so you can enjoy our products no matter where you are located. Simply visit our website or give us a call to place your order. We will ensure that your items are delivered safely and efficiently to your desired location. If you have any specific questions about shipping or need further assistance, feel free to ask. Our team is here to provide you with a seamless and enjoyable shopping experience from {{Delivery City}} to anywhere else in the country!",DELIVERY,delivery_options
+give me information about opening {{Account Type}} accounts,"I'm delighted that you're interested in opening a {{Account Type}} account with us! It's an excellent choice if you're looking for a no-cost option with basic features. To provide you with the necessary information, I'd like to confirm a few details. Could you please let me know which specific type of account you're interested in? Additionally, is there any particular service or feature you'd like to know more about? Once I have these details, I'll be able to give you a comprehensive overview of the account opening process and answer any questions you may have.",ACCOUNT,create_account

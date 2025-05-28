@@ -1,0 +1,16 @@
+2025-05-28 14:30:49,814 - __main__ - INFO - === BART Model Optimization for Customer Support Chatbot ===
+2025-05-28 14:30:49,815 - __main__ - INFO - Initializing simulated fine-tuned model with facebook/bart-base
+2025-05-28 14:30:52,442 - __main__ - INFO - Loaded 27 response template categories
+2025-05-28 14:30:52,452 - __main__ - INFO - Evaluating performance before optimization...
+2025-05-28 14:30:52,452 - __main__ - INFO - Evaluating model performance with 10 samples...
+2025-05-28 14:32:30,514 - __main__ - INFO - Average template-based generation time: 3.5900 seconds
+2025-05-28 14:32:30,519 - __main__ - INFO - Average model-based generation time: 6.1941 seconds
+2025-05-28 14:32:30,520 - __main__ - INFO - Speedup factor: 1.73x
+2025-05-28 14:32:30,574 - __main__ - INFO - Optimizing model for CPU inference...
+2025-05-28 14:32:30,575 - __main__ - INFO - Applying CPU optimizations...
+2025-05-28 14:32:30,575 - __main__ - INFO - Applying dynamic quantization...
+2025-05-28 14:32:40,731 - __main__ - INFO - Model quantized successfully
+2025-05-28 14:32:40,743 - __main__ - WARNING - ONNX export skipped (onnx or onnxruntime not installed)
+2025-05-28 14:32:42,510 - __main__ - ERROR - Error during model optimization: 'torch.dtype' object has no attribute 'data_ptr'
+2025-05-28 14:32:42,513 - __main__ - INFO - === Model optimization and evaluation completed successfully! ===
+2025-05-28 14:32:42,513 - __main__ - INFO - Model configuration saved to: c:\Users\bashe\Downloads\models\bart-customer-support\model_config.json

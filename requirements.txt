@@ -1,0 +1,19 @@
+# Core dependencies
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.10.0
+gradio>=3.50.0
+
+# Data processing
+pandas>=1.5.0
+numpy>=1.24.0
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Optimization
+accelerate>=0.26.0
+
+# Utilities
+tqdm>=4.65.0

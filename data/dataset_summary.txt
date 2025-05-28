@@ -1,0 +1,20 @@
+Dataset shape: (26872, 7)
+Columns: ['flags', 'instruction', 'category', 'intent', 'response', 'instruction_length', 'response_length']
+
+Data types:
+- flags: object
+- instruction: object
+- category: object
+- intent: object
+- response: object
+- instruction_length: int64
+- response_length: int64
+
+Unique values per column:
+- flags: 394 unique values
+- instruction: 24635 unique values
+- category: 11 unique values
+- intent: 27 unique values
+- response: 26870 unique values
+- instruction_length: 86 unique values
+- response_length: 1866 unique values

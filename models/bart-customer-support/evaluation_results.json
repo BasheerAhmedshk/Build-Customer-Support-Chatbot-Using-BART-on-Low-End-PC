@@ -1,0 +1,77 @@
+{
+  "avg_template_time": 3.58997061252594,
+  "avg_model_time": 6.1941451787948605,
+  "speedup_factor": 1.7254027532098923,
+  "responses": [
+    {
+      "query": "i dont know how i could see when my shipment is gonna arrive",
+      "template_response": "Answer the following customer support question in a helpful and friendly way: i dont know how i could see when my shipment is gonna arrive",
+      "model_response": "Answer the following customer support question in a helpful and friendly way: i dont know how i could see when my shipment is gonna arrive",
+      "template_time": 16.44531750679016,
+      "model_time": 12.480981588363647
+    },
+    {
+      "query": "help unsubscribing from ur damnnewsletter",
+      "template_response": "Answer the following customer support question in a helpful and friendly way: help unsubscribing from ur damnnewsletter",
+      "model_response": "Answer the following customer support question in a helpful and friendly way: help unsubscribing from ur damnnewsletter",
+      "template_time": 5.442340612411499,
+      "model_time": 4.889279842376709
+    },
+    {
+      "query": "i need help to see the cancellation penalty",
+      "template_response": "Regarding your question about i need help to see the cancellation penalty: I'm conscious of the reality that you are currently facing difficulties in canceling your order with the number {{Order Number}}. I apologize for any inconvenience caused by this issue. To provide you with the best assistance, I kindly request you to provide some specific details about the problems you encountered while trying to cancel your order. This will help me identify the issue accurately and guide you through the resolution process. Thank you for your cooperation, and I assure you that we are committed to resolving this matter promptly and ensuring your satisfaction.",
+      "model_response": "Answer the following customer support question in a helpful and friendly way: i need help to see the cancellation penalty",
+      "template_time": 0.015459299087524414,
+      "model_time": 5.099391937255859
+    },
+    {
+      "query": "how to talk with customer service?",
+      "template_response": "Regarding your question about how to talk with customer service?: I appreciate your reaching out for assistance in contacting our customer support. Don't worry, I'm here to guide you through the process. To get in touch with our customer support team, you can reach them during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our dedicated team is ready to assist you with any queries or concerns you may have. Is there anything else I can assist you with?",
+      "model_response": "Answer the following customer support question in a helpful and friendly way: how to talk with customer service?",
+      "template_time": 0.0002837181091308594,
+      "model_time": 5.007668733596802
+    },
+    {
+      "query": "send me bills from {{Person Name}}",
+      "template_response": "Regarding your question about send me bills from {{Person Name}}: Thank you for reaching out to us for assistance with reporting a payment issue. I understand the importance of resolving this matter promptly and efficiently. To provide you with the most effective support, could you kindly share more details about the specific payment issue you are facing? Any relevant information, such as error messages or transaction details, would be greatly appreciated. Rest assured, our team is committed to working alongside you to resolve this matter and ensure your satisfaction.",
+      "model_response": "Answer the following customer support question in a helpful and friendly way: send me bills from {{Person Name}}",
+      "template_time": 0.0006680488586425781,
+      "model_time": 7.115219593048096
+    },
+    {
+      "query": "assistance canceling the last order",
+      "template_response": "Regarding your question about assistance canceling the last order: I've realized that you are experiencing difficulties in canceling your purchase with the order number {{Order Number}}. I apologize for any inconvenience this may have caused you. \n\nTo assist you further, I kindly request you to provide me with more details about the problems you are encountering while trying to cancel the purchase. This will help me identify the issue and provide you with the most appropriate solution.\n\nPlease feel free to share any specific error messages, steps you have taken, or any other relevant information related to the problem you are facing. Once I have a clear understanding, I will do my best to guide you through the cancellation process and resolve any challenges you may be encountering.\n\nThank you for your patience, and I look forward to assisting you.",
+      "model_response": "Answer the following customer support question in a helpful and friendly way: assistance canceling the last order",
+      "template_time": 0.0003867149353027344,
+      "model_time": 4.195086240768433
+    },
+    {
+      "query": "what do i need to do to talk to someone",
+      "template_response": "Answer the following customer support question in a helpful and friendly way: what do i need to do to talk to someone",
+      "model_response": "Answer the following customer support question in a helpful and friendly way: what do i need to do to talk to someone",
+      "template_time": 5.839280366897583,
+      "model_time": 8.803235292434692
+    },
+    {
+      "query": "modify pro accunt",
+      "template_response": "Answer the following customer support question in a helpful and friendly way: modify pro accunt",
+      "model_response": "Answer the following customer support question in a helpful and friendly way: modify pro accunt",
+      "template_time": 3.7906150817871094,
+      "model_time": 3.9266364574432373
+    },
+    {
+      "query": "help me to check your reimbursement policy",
+      "template_response": "Answer the following customer support question in a helpful and friendly way: help me to check your reimbursement policy",
+      "model_response": "Answer the following customer support question in a helpful and friendly way: help me to check your reimbursement policy",
+      "template_time": 4.3651649951934814,
+      "model_time": 4.9531049728393555
+    },
+    {
+      "query": "reimbusre {{Currency Symbol}}{{Refund Amount}}",
+      "template_response": "Regarding your question about reimbusre {{Currency Symbol}}{{Refund Amount}}: Thank you for trusting to us about the errors you're encountering with your payment. We understand the importance of addressing these issues promptly and ensuring a seamless payment experience for you. To report the errors, I recommend contacting our customer support team directly. They are equipped with the necessary resources and expertise to assist you effectively. You can reach out to our customer support team through our website or by calling {{Customer Support Phone Number}}. They will be more than happy to help resolve the errors and provide you with the necessary guidance. We appreciate your patience and cooperation in resolving this matter.",
+      "model_response": "Answer the following customer support question in a helpful and friendly way: reimbusre {{Currency Symbol}}{{Refund Amount}}",
+      "template_time": 0.00018978118896484375,
+      "model_time": 5.470847129821777
+    }
+  ]
+}

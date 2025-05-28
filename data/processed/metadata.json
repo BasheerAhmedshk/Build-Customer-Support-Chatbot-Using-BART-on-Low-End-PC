@@ -1,0 +1,15 @@
+{
+  "original_size": 26872,
+  "train_size": 21496,
+  "val_size": 2688,
+  "test_size": 2688,
+  "columns": [
+    "input_text",
+    "target_text",
+    "category",
+    "intent"
+  ],
+  "train_path": "c:\\Users\\bashe\\Downloads\\data\\processed\\train.csv",
+  "val_path": "c:\\Users\\bashe\\Downloads\\data\\processed\\val.csv",
+  "test_path": "c:\\Users\\bashe\\Downloads\\data\\processed\\test.csv"
+}

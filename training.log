@@ -1,0 +1,9 @@
+2025-05-28 14:30:53,472 - __main__ - INFO - === BART Fine-tuning for Customer Support Chatbot ===
+2025-05-28 14:30:53,472 - __main__ - INFO - CUDA available: False
+2025-05-28 14:30:53,472 - __main__ - INFO - Using CPU for training
+2025-05-28 14:30:53,483 - __main__ - INFO - Loading tokenizer: facebook/bart-base
+2025-05-28 14:30:54,453 - __main__ - INFO - Loading and preparing datasets...
+2025-05-28 14:33:04,774 - __main__ - INFO - Train dataset size: 21496
+2025-05-28 14:33:04,777 - __main__ - INFO - Validation dataset size: 2688
+2025-05-28 14:33:04,785 - __main__ - INFO - Loading model: facebook/bart-base
+2025-05-28 14:33:06,123 - __main__ - INFO - Starting training...
